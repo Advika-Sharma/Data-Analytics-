@@ -1,0 +1,105 @@
+//operators--
+it indicates that what operation to be performed 
+x+y=0
+
+here x,y -> are operands
++,= -> operators 
+
+1. arithmetic operator- +,-,*,/,//(floor division),%,**(exponentiation)
+2. comparison operator- ==,!=,<,>,<=,>= 
+3. logical operator- and,or,not 
+4. assignment operator- =,+=,-=,*= 
+5. identity operator- is,is not 
+6. membership operator- in, not in 
+7. bitwise operator- &, |, ^, ~, <<, >>
+
+
+
+------------------------------------------------------
+//code 
+
+//input 
+
+
+#arithmetic operator 
+a=10
+b=4
+print("addition",a+b)
+print("subtraction",a-b)
+print("multiplictaion",a*b)
+print("division",a/b)
+print("floor_division",a//b)
+print("modulus",a%b)
+print("expo",a**b)
+
+
+#comparison operator 
+a=5
+b=10
+print("equal=",a==b)
+print("not equal=",a!=b)
+print("less than =",a<b)
+print("greater than =",a>b)
+print("less than or equal to =",a<=b)
+print("greater than or equal to =",a>=b)
+
+#logical operator 
+x=1 #true
+y=0 #false
+print("and operator",x and y)
+print("or operator",x or y)
+print("not operator",not x)
+print("not operator",not y)
+
+#assignment operator 
+a=5
+b=5
+c=5
+a+=5
+b-=5
+c*=5
+print(a)
+print(b)
+print(c)
+
+#membership operators
+list=[1,2,3,4,5,6]
+memb_in=3 in list
+print(memb_in)
+member_notin=8 in list 
+print(member_notin)
+
+name ="sagar"
+memb_in="a" in name
+print(memb_in)
+member_notin="z" in name
+print(member_notin)
+
+
+
+//output
+
+addition 14
+subtraction 6
+multiplictaion 40
+division 2.5
+floor_division 2
+modulus 2
+expo 10000
+equal= False
+not equal= True
+less than = True
+greater than = False
+less than or equal to = True
+greater than or equal to = False
+and operator 0
+or operator 1
+not operator False
+not operator True
+10
+0
+25
+True
+False
+True
+False

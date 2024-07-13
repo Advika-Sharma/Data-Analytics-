@@ -1,0 +1,76 @@
+Data Analytics 
+1. Data Collection- excel format in database , cloud 
+2. Data cleaning and preparation 
+3. EDA(Exploring data analytics)-data visual
+4.Statistical analysis 
+5.Machine learning and predictive modelling
+6. Data Visualization - pictorial representation
+7. Interpretation and insight  generation 
+
+
+-----------------------------------------------------
+
+
+data is the foundation of analysis. it encompasses a wide range of information, including numbers , text and multimedia. understanding 
+the structure and quality of data is crucial for accurate analysis, clean , well organized data is essential for reliable insights 
+
+
+EDA exploratory data analysis is a crucial initial step in data analysis. it involves visualizing and summarizing the main characteristics of the data EDA helps to identify patterns anomalies, and relationships within the dataset
+
+
+Statistical Techniques
+
+Statistical techniques such as descriptive statistics, probability distributions, and hypothesis testing are essential tools for gaining insights from data. These methods provide a framework for understanding the uncertainty and variability present in data
+
+
+
+Data Visualization
+
+Effective data visualization is key to conveying insights and trends. Visual representations such as charts, graphs, and dashboards eijable clear communication of complex data analysis results to diverse audiences.
+
+
+Predictive Modeling
+
+Predictive modeling involves using historical data to make predictions about future outcomes. Techniques such as regression analysis and time series forecasting are powerful tools for identifying trends and making informed decisions.
+
+
+
+Data Ethics and Privacy
+
+Ethical considerations are paramount in data analysis. Respecting privacy. ensuring transparency, and mitigating bias are essential for responsible data handling. Upholding ethical standards is crucial in the era of big data.
+
+
+------------------------------------------------------------------
+python
+basics of python 
+
+liberaries 
+numphy 
+pandas - data manipulation
+matplotlib - data visualization technique 
+seaborn - data visualization technique 
+
+
+
+sql(structure query lang)
+MySQL
+-joins
+-sub queries
+
+web scraping 
+-python
+
+excel
+
+power bi - business intelligence tool - dashboard creation 
+tableau 
+
+basics of machine learning 
+
+2projects (real time projects)
+1 mini project 
+1 real time project 
+
+
+
+
