@@ -1,0 +1,139 @@
+While:
+repeatedly execute a block of code as long as condition is true 
+
+count=0 		
+while count<5:
+	print(count)
+	count+=1
+//count=0 0<5 true 0+1=1
+//count=1 1<5 true 1+1=2....5
+
+----------------------------------------------
+code for while loop and types 
+
+count=0
+while count<5:
+    print(count)
+    count +=1
+    
+#break -> terminates the loop
+list=[1,2,3,4,5,6,7,8,9]
+for num in list:
+    if num==5:
+        break
+    print(num)
+    
+    
+#continue -> skips the current iteration and procedes to the next iteration of the loop
+list=[1,2,3,4,5,6,7,8,9]
+for num in list:
+    if num == 5:
+        continue
+    print(num)
+    
+#pass -> acts as a placeholder, there will be no action
+for i in range(5):
+    pass
+
+    
+---------------------------------------------
+
+//strings
+it is a sequence of character enclosed within either single quotes or double quotes 
+-> immutable (we can not modify)
+-> index based 
+
+---------------------------------------------
+code for string
+
+name="Sagar"
+#0,1,2,3
+#index value starts from the 0 and ends with n-1
+#index last value starts from -1
+
+print(name[0])
+print(name[3])
+print(name[-1])
+print(name[:5]) #S,a,g,a,r
+print(name[2:5])
+
+name="Data Analytics"
+print(len(name))
+print(name.upper())
+print(name.lower())
+print(name.split())
+print(name.split(','))
+print(name.find('n'))
+print(name.count('a'))
+
+----------------------------------------------
+
+
+
+
+#Data Types 
+#list 
+#oredered collection of items 
+#list can contain different data types including integers, float, strings
+#use []
+#index based
+#list are mutable(we can modify the data)
+#allow duplication
+
+list=[1,1,2.0,3,4,5,"Data"]
+print(list)
+
+list1=["hello","how","are","you"]
+print(list1)
+print(list1[1])
+print(list1[-1])
+
+#slicing
+print(list1[:2])
+#modify 
+list1.append('?')
+print(list1)
+list1.remove('hello')
+print(list1)
+list1[0]='Banana'
+print(list1)
+list1[3]='Banana'
+print(list1)
+
+for i in list1:
+    print(i)
+    
+#set 
+#-----------------------
+#unoredred collection of items 
+#unique values(does not contain duplicates)
+#use {}
+#mutable
+#automatically remove the duplicates 
+#index
+
+
+myset={1,2,3,4,5}
+print(myset)
+myset={1,2,3,4,5.0}
+print(myset)
+myset={1,2,3,4,4,5}
+print(myset)
+myset.add(6)
+print(myset)
+myset.remove(4)
+print(myset)
+name={'python','java','html'}
+print(name)
+
+print(2 in myset)
+print(7 in myset)
+print(7 not in myset)
+for i in myset:
+    print(i)
+    
+squarenum={i**2 for i in myset}
+print(squarenum)
+
+
+

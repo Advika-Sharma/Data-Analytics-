@@ -1,0 +1,116 @@
+Conditional statements 
+------------------------------------------
+it allow you to execute different block of code based on whether a condition is true or false
+
+if,elif(short for else if),else
+
+1. if- used to execute a block of code if a condition is true 
+
+a=10 
+if a>5:
+	print("a is greater than 5")
+
+
+#write a program to eligibility to vote or not ?
+
+eligible = 18 
+12>18 false- not eligible to vote 
+19>18 true- eligible to vote 
+18>=18 true- eligible to vote 
+
+
+code////
+----------------------------------------------------
+
+#if
+
+x=10
+if x>5:
+    print("x is greater than 5")
+    
+#if - else 
+
+x=10 
+if x>5:
+    print("x is greater than 5")
+else:
+    print("x is not greater than 5")
+    
+#write a program to eligibility to vote or not 
+
+x=18
+if x>=18:
+    print("the user is eligible to vole")
+else:
+    print("x is not eligible to vote")
+    
+#elif -> used when we have multiple conditions 
+
+
+age=18
+if age>18:
+    print("the user is eligible to vote")
+elif age==18:
+    print("eligible to vote")
+else:
+    print("x is not eligible to vote")
+
+
+
+
+------------------------------------------------------
+
+iterating and range ///
+
+#it will always allows you to execute a block of code repeatedly 
+#useful for automating repetitive tasks, processing collection of data and iterating over a sequence 
+#for loops
+#used to iterate over a sequence (such as list, tuple, string, range) and 
+#execute a block of code for reach time 
+#-----------------------------------
+print("Iterating over a list")
+num=[1,2,3,4,5]
+for i in num:
+    print(i)
+#           or
+
+print("Iterating over a list")
+num=[1,2,3,4,5]
+for n in num:
+    print(n)
+
+#-----------------------------
+print("Iterating over a string")
+for char in "SAGAR":
+    print(char)
+
+#           or
+print("Iterating over a string")
+for name in "SAGAR":
+    print(name)
+    
+#------------------------
+print("Iterating over a range")
+#range -> start point , ending point, a step/ gap in it 
+#+1 is added to ending point whule defining a range 
+for i in range (1,7):
+    print(i)
+
+for i in range(1,4):
+    print("Hello World")
+    
+    
+#creating multiplication table 
+n=12
+for i in range(1,11):
+    #print(n*i)
+    print(n,"x",i,"=",n*i)
+
+#------------------------------
+#break -> terminates the loop permananently 
+num=[1,2,3,4,5]
+for i in num:
+    if i==4:
+        break
+    print(i)
+#while loops 
