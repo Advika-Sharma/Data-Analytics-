@@ -1,0 +1,52 @@
+Data Analytics
+
+--------------------------------------------
+
+Web scraping is the process of extracting data from websites. It involves automatically retrieving information from web pages, typically using software tools or scripts, rather than manually copying and pasting data.
+
+Here's how the process generally works:
+
+Accessing Web Pages: The web scraping software or script sends HTTP requests to specific URLs to access the desired web pages.
+
+Parsing HTML: Once the web page is accessed, the HTML content of the page is retrieved. HTML (Hypertext Markup Language) is the language used to structure and present content on the web.
+
+Extracting Data: The web scraping tool analyzes the HTML content to locate and extract the desired data. This may involve identifying specific HTML elements (such as <div> or <table> tags) or using CSS selectors or XPath expressions to target particular content.
+
+Data Processing: After the data is extracted, it may undergo preprocessing or cleaning to ensure accuracy and consistency. This could include removing HTML tags, formatting dates or numbers, or handling missing or duplicate data.
+
+Storing or Exporting Data: Finally, the scraped data can be stored in a structured format such as a database, spreadsheet, or CSV file, or it can be directly used for analysis, visualization, or other purposes.
+
+web scraping can be used for various purposes, including:
+
+gathering market intelligence, such as pricing information or product reviews.
+Monitoring news article or social media mentions for sentiment analysis 
+Collecting data for academic research or data journalism.
+
+Aggregating job postings, real estate listings, or other classified advertisements.
+
+Extracting contact information or business listings for lead generation.
+
+Advantages:
+
+Access to Large Amounts of Data: Web scraping allows you to gather large amounts of data from various websites quickly. This can be useful for market research, competitive analysis, or academic studies.
+
+Automation: Scraping can be automated using software tools or scripts, saving time and effort compared to manual data collection methods.
+
+Real-Time Data Collection: You can collect real-time data from websites, enabling you to stay up-to-date with changes in information, trends, or news.
+
+Cost-Effective: Web scraping can be a cost-effective way to gather data, especially when compared to other methods like surveys or interviews.
+
+Data Integration
+
+Scanned data can he easily integrated into other systems or databases for further analysis or processing.
+
+Disadvantages:
+Legality and Ethical Concerns: Scraping websites without permission may violate terms of service or copyright laws. It's important to consider the legal and ethical implications of scraping, especially when dealing with sensitive or proprietary data.
+
+Data Quality Issues: The quality of scraped data can vary depending on factors like website structure, data formatting, and changes in website layout. Cleaning and preprocessing may be necessary to ensure data accuracy and consistency.
+
+Website Changes: Websites often undergo changes in structure, layout, or content, which can break scraping scripts and require maintenance to adapt to these changes.
+
+IP Blocking and Captchas: Websites may detect and block scraping activities, leading to IP blocking or the presentation of captchas. This can disrupt the scanning process and require additional measures to bypass detection.
+
+Resource Intensive: Scraping large amounts of data or scraping from multiple websites simultaneously can consume significant computational resources and bandwidth.
