@@ -1,0 +1,54 @@
+Exploratory Data Analysis(EDA)
+
+-------------------------------------
+
+is like exploring a new place before you decide where to go. it's about getting know your data before diving into deeper analysis. EDA Helps you understand your data by looking at it's different aspects, like it's structure, patterns and relationships
+
+1. Checking for missing Data
+
+2. Summary statistics 3. Visualizing Data
+
+4. Finding outliers
+
+5. Understanding relationships
+
+6. Detecting Patterns
+
+Data Visualization Matplotlib, seaborn
+
+--------------------------------------
+
+Matplotlib: Powerful and flexible library for creating static, interactive and animated Visualization in python.
+
+-> it provides a wide range of plotting functions, allowing you to create line plots, scatter plots, bar charts, histograms, pie charts and more
+
+Seaborn -> built on top of the matplotlib and provides high-level interface for creative attractive and informative statistical graphics 
+
+
+Descriptive statistics and summary metrics
+
+-----------------------------------------
+
+these are tools used to summarize and describe the basic features of a dataset , they provide insights into the central tendency, variability, and distribution of the data 
+
+1. Mean -> the avg value of the data points in the datasets
+
+2. Median -> the middle value of the dataset when it's sorted in ascending order
+
+3. Mode -> The value that appears most frequently in the dataset Range, variance, Percentiles, kurtosis
+
+Data distribution and central tendency
+
+---------------------------------------
+
+Understanding and summarizing a dataset, they help us grasp how data points are spread out and where their center lies
+
+Correlation and causation Analysis
+
+------------------------------------------
+
+Correlation it measures the strength and direction of the relationships between two variables
+
+it indicates whether and how much two variables change together
+
+causation- refer to the relationships between cause and effects
