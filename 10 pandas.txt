@@ -1,0 +1,65 @@
+Pandas is a powerful and widely used Python library for data manipulation and analysis.
+
+Data Structures: Pandas provides two main data structures: Series and DataFrame.
+
+Series: A one-dimensional array-like object that can hold any data type, such as integers, floats, strings, etc. It's
+
+similar to a traditional Python list or NumPy array but with additional functionalities.
+
+DataFrame: A two-dimensional labeled data structure with columns of potentially different types. It's like a spreadsheet or
+
+SQL table, where data is organized into rows and columns.
+
+Data Cleaning: Pandas offers a plethora of functions to clean messy, real-world data. This includes handling missing data, removing duplicates, and transforming data into a more usable format.
+
+Data Manipulation: Pandas makes it easy to manipulate data in various ways:
+
+Selection: Selecting specific rows or columns of data.
+
+Filtering: Filtering data based on conditions.
+
+Grouping: Grouping dita based on one or more variables.
+
+Aggregation: Performing aggregate functions like sum, mean, count, etc., on grouped data.
+
+Merging and Joining: Combining multiple datasets into a single one based on common columns.
+
+Reshaping: Pivoting, melting, stacking, and unstacking data for analysis.
+
+Data Analysis: Pandas facilitates exploratory data analysis (EDA) by providing easy-to-use tools for:
+
+
+Descriptive Statistics: Computing statistics like mean, median, standard deviation, etc.
+
+Visualization: Integrating with libraries like Matplotlib and Seaborn for data visualization.
+
+Time Series Analysis: Handling time-series data efficiently.
+
+Categorial data: Handling categorical variables effectively.
+
+Integration: Pandas integrates well with other libraries and tools in the Python ecosystem. For example, it works seamlessly with NumPy for numerical computations, Matplotlib and Seaborn for visualization, and scikit-learn for machine learning tasks.
+
+Ease of Use: Pandas provides a user-friendly and intuitive API, making it accessible to both beginners and experienced data scientists. Its syntax is concise and expressive, enabling users to perform complex data manipulations with just a few lines of code.
+
+100 raw data
+
+-> Duplicate values
+-> null values
+product id , order id, sales man, profit, area
+
+10,vj,suman,banglore
+1.avg profit by area 
+2.sum of profit under sales man in area 
+3.which area earning more than 1cr profit 
+
+
+
+
+
+
+
+
+
+
+
+
