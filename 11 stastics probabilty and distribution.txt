@@ -1,0 +1,63 @@
+Statistical analysis involves the collection, organization, interpretation, and presentation of data. It's a method used to make sense of large amounts of information, uncover patterns, relationships, and trepds, and draw conclusions or make predictions based on
+
+the data
+
+Data Collection: This is the first step where data is gathered through various methods such as surveys, experiments, observations, or existing databases.
+
+1. Data Organization: Once the data is collected, it needs to be organized in a systematic manner. This may involve sorting, categorizing, or structuring the data to make it easier to analyze.
+
+2. Descriptive Statistics: Descriptive statistics are used to summarize and describe the main features of the data. This includes measures such as mean, median, mode, standard deviation, variance, range, and percentiles.
+
+3. Exploratory Data Analysis (EDA): EDA involves visualizing the data using graphs, charts and summary statistics to identify patterns, trends, and evidence from the data, and drawing conclusions based on the results.
+
+4. Hypothesis Testing: Hypothesis testing is used to determine if there is a significant difference or relationship between variables in the data. It involves formulating a hypothesis, selecting an appropriate statistical test, collecting evidence from the data, and drawing conclusions based on the results.
+
+5. Inferential Statistics: Inferential statistics are used to make predictions or generalizations about a population based on a sample of data. This involves estimating parameters, testing hypotheses, and making predictions with a certain level of confidence.
+
+6. Regression Analysis: Regression analysis is used to model the relationship between one or more independent variables and a dependent variable. It helps to understand how changes in the independent variables affect the dependent variable
+
+7. Data Interpretation: once the analysis is complete, the results need to be interpreted in the context of the research question or problem being addressed. This involves drawing conclusions, making recommendations, or formulating hypotheses for further investigation.
+
+
+8. Presentation of Result: Finally, the result of the statistical analysis are communicated to others through reports, presentations, or visualizations. Clear and concise communication of the findings is essential for others to understand and act upon the results.
+
+
+Probability theory and distributions
+
+Probability theory is a branch of mathematics concerned with the analysis of random phenomena. It provides a framework for quantifying uncertainty and making predictions based on incomplete information. Probability theory deals with the study of random events and the likelihood of their occurrence.
+
+Key concepts in probability theory include:
+
+L 1. Random Experiment: An experiment whose outcome is not known in advance and is subject to chance variations.
+
+2. Sample Space: The set of all possible outcomes of a random experiment. It is denoted by SS.
+
+3. Event: A subset of the sample space SS, representing a particular outcome or a combination of outcomes of the random experiment.
+
+4. Probability: A measure of the likelihood of an event occurring, expressed as a number between 0 and 1. A probability of 0 indicates impossibility, while a probability of 1 indicates certainty.
+
+5. Probability Distribution: A mathematical function that describes the likelihood of different outcomes of a random variable. It specifies the probabilities of each possible outcome.
+
+Probability distributions are fundamental in probability theory and statistics. They provide a way to model and analyze random variables and their behavior. Some common probability distributions include:
+
+1. Discrete Distributions: These distributions describe random variables that can only take on a countable number of distinct values. Examples include:
+
+-Bernoulli Distribution: Represents a random variable that takes on only two possible outcomes (usually 0 and 1).
+
+-Binomial Distribution: Describes the number of successes in a fixed number of independent Bernoulli trials. Successes
+
+-Poisson Distribution: Models the number of events occurring in a fixed interval of time or space, given a constant average rate of occurrence.
+
+2. Continuous Distributions: These distributions describe random variables that can take on an infinite number of values within a certain range. Examples include:
+
+-Normal (Gaussian) Distribution: Characterized by a symmetric bell- shaped curve. It is widely used due to the Central Limit Theorem and represents many natural phenomena.
+
+-Exponential distribution: models the time until an event occurs in a poison process, such as the time a radioactive atom decays
+
+-uniform distribution: all outcomes are equally likely within a specified range.
+
+
+
+
+
+
