@@ -1,0 +1,52 @@
+Explain Hypothesis testing and p-values 
+
+Hypothesis Testing
+
+Hypothesis testing is a statistical method used to make decisions about a population based on a sample. It involves making an assumption (the hypothesis) and then using data to test whether this assumption is likely to be true.
+
+Steps in Hypothesis Testing:
+
+1. Formulate Hypotheses:
+
+Null Hypothesis (HOHo): This is a statement of no effect or no difference. It's the default assumption that there is no relationship between variables or that a parameter equals a certain value.
+
+Alternative Hypothesis (HaHa or H1H1): This is a statement that contradicts the null hypothesis. It indicates the presence of an effect or difference.
+
+Example:
+
+HOHo: The mean of a population is equal to 50.
+
+Haha: The mean of a population is not equal to 50.
+
+2. Choose the Significance Level (qa):
+
+The significance level is the probability of rejecting the null hypothesis when it is true. Common values are 0.05, 0.01, or 0.10.
+
+3. Select the Appropriate Test:
+
+Depending on the data type and the hypothesis, choose a statistical test (e.g., t-test, chi-square test, ANOVA).
+
+4. Calculate the Test Statistic:
+
+The test statistic summarizes the data in relation to the null hypothesis.
+
+
+5. Determine the p-value:
+
+The p-value is the probability of obtaining a test statistic as extreme as, or more extreme than, the observed value, assuming the null hypothesis is true.
+
+6. Make a Decision:
+
+Compare the p-value to the significance level:
+
+If p≤ap≤a: Reject the null hypothesis (H0Ho).
+
+If p>ap>a: Fail to reject the null hypothesis (HOHo).
+
+P-Values
+
+P-value is a measure used in hypothesis testing to help decide whether to reject the null hypothesis. It quantifies the evidence against the null hypothesis.
+
+
+
+
