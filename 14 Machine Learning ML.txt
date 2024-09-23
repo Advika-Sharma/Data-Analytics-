@@ -1,0 +1,58 @@
+Introduction to Machine Learning
+
+
+Machine Learning is a Subset of Al that is based on the idea that machines can be given access to data along with the ability to learn from it."
+
+The capability of Artificial Intelligence systems to learn by extracting patterns from data is known as Machine Learning.
+
+Machine learning is a type of artificial intelligence (Al) that allows computers to learn without being explicitly programmed.
+
+Artificial Intelligence in Practice
+
+Al is redefining industries by providing greater personalization to users and automating processes.
+
+Self-driving cars
+
+Siri (iPhone)
+
+Google's AlphaGo
+
+Chess
+
+Amazon ECHO
+
+Concierge robot from IBM Watson
+
+
+
+Applications of Machine Learning
+
+Artificial Intelligence and Machine Learning are being increasingly used in various functions such as:
+
+Image Recognition: Machine learning is used to identify objects, people,
+
+places, and scenes in images. This is used in a variety of applications, such as facial recognition in social media photos, security systems that can identify unauthorized individuals, and self-driving cars that can navigate the road.
+
+Speech Recognition: Machine learning is used to convert spoken language into text. This is used in a variety of applications, such as voice assistants like Siri and Alexa, dictation software, and automated call centers.
+
+
+Recommender Systems: Machine learning is used to recommend products,
+
+movies, music, and other items to users. This is based on the user's past behavior and preferences, as well as the behavior of other users with similar tastes.
+
+Fraud Detection: Machine learning is used to detect fraudulent activity, such as credit card fraud and identity theft. This is done by analyzing patterns in data to identify suspicious behavior.
+
+
+
+Self-Driving Cars: Machine learning is a key component of self-driving cars. It is used to teach cars how to perceive their surroundings, make decisions, and navigate safely.
+
+Medical Diagnosis: Machine learning is used to analyze medical data to help
+
+doctors diagnose diseases. This can be done by analyzing images, such as X- rays and MRIs, or by analyzing other data, such as a patient's medical history and blood test results.
+
+Applications of machine learning : Artificial Intelligence and machine learning are being increasingly used in various functions such as : Image processing , healthcare, robotics , text analysis , data mining , video games, image processing: image tagging and recognition, self driving cars, optical character recognition, robotics, human simulation, industrial robotics, text analysis, sentiment analysis, spam filtering, information extraction.
+
+
+supervised learning is used to train models using labeled training data. it provides the ability to predict the output of future or unseen data 
+: the goal of supervised learning algorithm is to discover a mapping function that will translate the input variable (x) to the output variable (y).
+
